@@ -1,7 +1,8 @@
 {
   "name": "fingerprint-app",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
